@@ -63,7 +63,7 @@ git https://github.com/sasidharthippana-commits/Hospital-queue-management-system
 Move into project folder:
 
 ```bash
-cd hospital-queue-management-system
+cd Hospital-queue-management-system
 ```
 
 Install dependencies:
